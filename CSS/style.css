@@ -36,7 +36,7 @@ section{
 .Container img{
     height: 200px;
     border-radius: 50%;
-    border: 1px solid #ddd;
+    border: 10px solid #ddd;
     padding: 5px;
 }
 

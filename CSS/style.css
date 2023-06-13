@@ -34,8 +34,10 @@ section{
 } */
 
 .Container img{
-    height: 200px;
+    height: 50px;
     border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 5px;
 }
 
 .Container h2{

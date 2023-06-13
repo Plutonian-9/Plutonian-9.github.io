@@ -36,7 +36,7 @@ section{
 .Container img{
     height: 200px;
     border-radius: 50%;
-    border: 10px solid #ddd;
+    border: 100px solid #1a1212f8;
     padding: 50px;
 }
 
@@ -59,7 +59,7 @@ footer{
 }
 
 #intro {
-    background-color:lightgreen;
+    background-color: #ddd;
     background-repeat: round;
 }
 

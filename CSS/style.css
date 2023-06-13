@@ -34,9 +34,9 @@ section{
 } */
 
 .Container img{
-    height: 300px;
+    height: 400px;
     border-radius: 50%;
-    border: 200px solid #1a1212f8;
+    border: 50px solid #3c3abdf8;
     padding: 5px;
 }
 

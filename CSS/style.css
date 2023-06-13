@@ -37,7 +37,7 @@ section{
     height: 200px;
     border-radius: 50%;
     border: 100px solid #1a1212f8;
-    padding: 50px;
+    padding: 5px;
 }
 
 .Container h2{
@@ -59,7 +59,7 @@ footer{
 }
 
 #intro {
-    background-color: #ddd;
+    background-color: #e9e1cb;
     background-repeat: round;
 }
 

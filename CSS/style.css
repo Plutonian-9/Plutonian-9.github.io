@@ -48,13 +48,13 @@ section{
 
 .Flex-Child {
     flex: 1;
-    border: 2px solid rgb(200, 255, 0);
+    border: 2px solid rgb(131, 133, 101);
     font-family: monospace;
 }
 
 .Flex-Child:first-child{
     margin-right: 20px;
-    font-size: large;
+    font-size: xx-large;
     font-weight: bold;
     color: #5f94c0a6;
 }
@@ -63,6 +63,7 @@ section{
     margin-top: 25px;
     background-color: #5f94c0a6;
     color: #e7e1d1;
+    border: none;
 }
 
 .Flex-Child img{

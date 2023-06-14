@@ -49,15 +49,20 @@ section{
 .Flex-Child {
     flex: 1;
     border: 2px solid rgb(200, 255, 0);
+    font-family: monospace;
 }
 
 .Flex-Child:first-child{
     margin-right: 20px;
-    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+    color: #5f94c0a6;
 }
 
 .Flex-Child button{
-    color: blue;
+    margin-top: 25px;
+    background-color: #5f94c0a6;
+    color: #e7e1d1;
 }
 
 .Flex-Child img{

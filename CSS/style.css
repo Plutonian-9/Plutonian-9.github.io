@@ -38,7 +38,7 @@ section{
     border-radius: 50%;
     border: 10px solid #5f94c0a6;
     padding: 5px;
-    object-position: center right;
+    object-position: right top;
 }
 
 .Container h2{

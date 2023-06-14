@@ -58,7 +58,10 @@ section{
     font-size: 48px;
     font-weight: bold;
     color: #5f94c0a6;
+}
 
+#bottom {
+    position: absolute;
     bottom: 0;
     left: 0;
 }

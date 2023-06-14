@@ -53,6 +53,11 @@ section{
 
 .Flex-Child:first-child{
     margin-right: 20px;
+    font-family: "Blippo";
+}
+
+.Flex-Child button{
+    color: blue;
 }
 
 .Flex-Child img{

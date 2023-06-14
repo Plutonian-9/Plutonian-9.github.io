@@ -53,7 +53,7 @@ section{
 
 .Flex-Child:first-child{
     margin-right: 20px;
-    font-family: "Blippo";
+    font-family: monospace;
 }
 
 .Flex-Child button{

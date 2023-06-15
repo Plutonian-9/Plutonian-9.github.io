@@ -49,7 +49,7 @@ section{
 }
 
 .Flex-Child {
-    flex: auto;
+    flex: 1 1 auto;
     border: 2px solid rgb(131, 133, 101);
     font-family: monospace;
     position: relative;
@@ -57,7 +57,7 @@ section{
 
 .Flex-Child:first-child {
     margin-right: 20px;
-    width: 100%;
+    width: min-content;
     height: 400px;
     font-size: 48px;
     font-weight: bold;

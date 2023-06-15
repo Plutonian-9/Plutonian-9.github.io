@@ -52,6 +52,7 @@ section{
     flex: 1;
     border: 2px solid rgb(131, 133, 101);
     font-family: monospace;
+    position: relative;
 }
 
 .Flex-Child:first-child {
@@ -64,8 +65,8 @@ section{
 }
 
 .Flex-Child p {
-    font-size: large;
-    color: rgba(107, 172, 116, 0.836)
+    font-size: larger;
+    color: rgba(133, 170, 138, 0.781)
 }
 
 #bottom {

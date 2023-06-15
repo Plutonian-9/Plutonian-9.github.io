@@ -49,8 +49,8 @@ section{
 }
 
 .Flex-Child {
-    flex: 1;
-    border: 2px solid rgb(156, 71, 21);
+    flex: 1 1 auto;
+    border: 2px solid rgb(21, 156, 89);
     font-family: monospace;
     position: relative;
 }

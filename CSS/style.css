@@ -50,14 +50,14 @@ section{
 
 .Flex-Child {
     flex: 1;
-    border: 2px solid rgb(118, 21, 156);
+    border: 2px solid rgb(156, 71, 21);
     font-family: monospace;
     position: relative;
 }
 
 .Flex-Child:first-child {
     margin-right: 20px;
-    width:n 600px;
+    width: 600px;
     height: 400px;
     font-size: 48px;
     font-weight: bold;

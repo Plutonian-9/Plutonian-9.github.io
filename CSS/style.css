@@ -3,9 +3,46 @@
     margin: 0;
 }
 
+/* Whole page settings */
 body {
     background-color: #FFF7F8;
     font-family:'Courier New', Courier, monospace;
     font-size: 10px;
     text-align: center;
 }
+
+/*  Navigation bar  v */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1F363D;
+    position: -webkit-sticky;
+    position: sticky; /* Makes the nav stay at top of page as scrolling */
+    top: 0;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white; /* sets the color of the text */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; /* removes the underline of the nav option */
+}
+/* Change the color as someone hovers over it */
+li a:hover {
+    background-color: #E65F5C;
+}
+/* Tell user which tab they are currently on */
+.active {
+    background-color: #E65F5C;
+}
+/*  Navigation bar  ^ */
+
+section {
+    height: 1000px;
+}
+
